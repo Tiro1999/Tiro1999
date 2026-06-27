@@ -1,17 +1,28 @@
-I welcome you at my codespace
-Feel free to explore!
+<div align="center">
 
-<!--
-**Tiro1999/Tiro1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Tim Rothenhäusler
 
-Here are some ideas to get you started:
+### Maker projects, 3D printing ideas, and practical creations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.thingiverse.com/tiro1999/designs">
+    <strong>Thingiverse</strong>
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://makerworld.com/en/@Tiro1999">
+    <strong>MakerWorld</strong>
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://paypal.me/Tiro19990">
+    <strong>Support my work</strong>
+  </a>
+</p>
+
+</div>
+
+---
+## Welcome
+
+Thanks for stopping by.
+This profile is a small hub for the things I build and share: creative ideas, printable models, and hands-on maker projects with a clean and practical focus.
+
