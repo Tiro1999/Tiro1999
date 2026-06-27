@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Tim Rothenhäusler
+## Hi, I'm Tim
 
 ### Maker projects, 3D printing ideas, and practical creations
 
